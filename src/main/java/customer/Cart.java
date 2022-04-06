@@ -1,2 +1,4 @@
-package customer;public class Cart {
+package customer;
+
+public class Cart {
 }

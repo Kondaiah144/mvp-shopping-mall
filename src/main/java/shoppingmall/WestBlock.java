@@ -1,2 +1,4 @@
-package shoppingmall;public class WestBlock {
+package shoppingmall;
+
+public class WestBlock {
 }

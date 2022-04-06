@@ -1,2 +1,4 @@
-package customer;public class Customer {
+package customer;
+
+public class Customer {
 }

@@ -1,2 +1,4 @@
-package shoppingmall;public class ShoppingMall {
+package shoppingmall;
+
+public class ShoppingMall {
 }

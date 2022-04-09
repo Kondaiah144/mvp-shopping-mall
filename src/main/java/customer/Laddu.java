@@ -27,6 +27,7 @@ package customer;
                     }
                 }
             }
+            System.out.println("Laddu - " + total);
             return total; //totalPrice
         }
 

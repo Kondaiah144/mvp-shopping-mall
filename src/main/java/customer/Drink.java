@@ -25,6 +25,7 @@ package customer;
                     }
                 }
             }
+            System.out.println("Drink -" + total);
             return total; //totalPrice
         }
 

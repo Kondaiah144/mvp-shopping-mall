@@ -1,9 +1,12 @@
+import java.util.HashSet;
 import java.util.Scanner;
 
 import Employee.EmpOne;
 import Employee.FullTimeSalaryEmp;
 import Employee.PartTimeHourlyEmp;
+
 import shoppingmall.ShoppingMall;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -20,7 +23,7 @@ public class Main {
         y.computePay(20);
         z.computePay(60);
         p.computePay(50);
-
+        System.out.println("\n" + "***************************************************\n" + "\n");
 //Customer Entering to Shopping Mall
 
             System.out.println("\n" + "**** You have entered Aanand Shopping Mall ****\n"
@@ -90,14 +93,8 @@ public class Main {
 
                 default:
                     System.out.println(" You are at Main Entrance,please choose where you wanted to Shop? ");
-                    scanner.close();
 
-
+                   scanner.close();
             }
-
         }
-
         }
-
-
-

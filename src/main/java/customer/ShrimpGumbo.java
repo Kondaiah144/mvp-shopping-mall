@@ -21,6 +21,7 @@ class ShrimpGumbo extends CustomerOrder { // ShrimpGumbo Sub-class
         double tax = 0.08 * total;
         total += tax;
 
+        System.out.println("ShrimpGumbo - " + total);
         return total;//totalPrice
     }
 

@@ -1,6 +1,8 @@
 package customer;
 
-    abstract class CustomerOrder { //superclass
+
+
+abstract class CustomerOrder { //superclass
         private int quantity; //instance variables
 
         public CustomerOrder(int quantity) { //constructor
@@ -12,6 +14,7 @@ package customer;
         }
 
         public abstract double totalPrice();
+
 
         public String toString() {
             return "quantity: " + quantity;

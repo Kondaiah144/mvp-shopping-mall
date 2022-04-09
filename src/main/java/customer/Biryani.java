@@ -23,10 +23,12 @@ package customer;
             } else {
                 total = price * quantity;
             }
+            System.out.println("Biryani - " + total);
             return total;//totalPrice
         }
 
         public String toString() {
+
             return "Biryani("+ flavour + "): " + super.toString() + ", price: " + price;
         }
 

@@ -1,3 +1,5 @@
-hi there Kondaiah, it's Suresh
-I'm ready to go to the school Kondaiah
-Kondaiah wait, it's in Fairfax.
+Hello Kondaiah, I heard you are learning Java and how are you feeling about the Course work?
+Are learning and feeling comfortable working on language? 
+Well, I am learning and enjoying it. In the beginning I struggled a bit but now I enjoy thinking of different ways to resolve the problem in Java language. 
+BTW, who is trainer and where is this place?
+Ya, trainer is Adam and he works for Genspark. Right now, I am learning it via virtual classroom set up. 

@@ -1,5 +1,8 @@
 package customer;
-
+import customer.Biryani;
+import customer.Drink;
+import customer.Laddu;
+import customer.ShrimpGumbo;
 
 
 abstract class CustomerOrder { //superclass
@@ -16,8 +19,9 @@ abstract class CustomerOrder { //superclass
         public abstract double totalPrice();
 
 
+
         public String toString() {
-            return "quantity: " + quantity;
+            return "quantity: " + quantity + totalPrice();
         }
 
     }

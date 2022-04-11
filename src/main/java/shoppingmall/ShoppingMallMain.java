@@ -3,6 +3,8 @@ package shoppingmall;
 import java.util.Collections;
 
 public class ShoppingMallMain {
+
+
     public static void main(String[] args) {
 
 //Information and Road Map about Aanand Shopping Mall
@@ -15,6 +17,14 @@ public class ShoppingMallMain {
     SouthBlock southBlockA = new SouthBlock("Aanand Shopping Mall", "Fairfax", "Cloths", 84,true);
 
     NorthBlock northBlockA = new NorthBlock("Aanand Shopping Mall", "Fairfax", "Technology", 72 );
+
+        System.out.println(shoppingMallA);
+        System.out.println(westBlockA);
+        System.out.println(eastBlockA);
+        System.out.println(southBlockA);
+        System.out.println(northBlockA);
+
+        //toSting
 
     }
 
